@@ -6,3 +6,4 @@ El código web_scraping_pythonic_force.ipynb descarga un documento con nombre Na
 
 El código realiza una descarga de prueba con pocos archivos.
 
+El código se desarrollo para un concurso de programación, todavía se puede mejorar y refactorizar algunos aspectos.
