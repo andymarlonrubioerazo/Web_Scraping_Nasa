@@ -6,7 +6,3 @@ El código web_scraping_pythonic_force.ipynb descarga un documento con nombre Na
 
 El código realiza una descarga de prueba con pocos archivos.
 
-
-Hi, you need to install: pandas, requests, BeautifulSoup, re, datetime, pytube, threadpoolctl, numpy, pymongo, os.
-
-
